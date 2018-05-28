@@ -1,5 +1,5 @@
 body, html{
-  font-family: Share Tech Mono;
+  font-family: 'Share Tech Mono', monospace;
   height: 100%;
   width: 100%;
   display: flex;
